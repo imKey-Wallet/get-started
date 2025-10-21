@@ -1,0 +1,1162 @@
+const l=""+new URL("PIN-su9Uj2Zk.png",import.meta.url).href,e=""+new URL("page2_1_1-DhV1WCAF.png",import.meta.url).href,t=""+new URL("page2_1_2-3ZGpmv3s.png",import.meta.url).href,p=""+new URL("page2_1_3-B7GLD-ra.png",import.meta.url).href,d=""+new URL("page2_1_4-C60Eb6Uu.png",import.meta.url).href,r=""+new URL("page2_2_1-CzEi4zS6.png",import.meta.url).href,o=""+new URL("page2_2_2-G2U36qAM.png",import.meta.url).href,a=""+new URL("page2_2_3-C8jMHvqv.png",import.meta.url).href,n=""+new URL("page2_2_4-CJNBFie-.png",import.meta.url).href,s=""+new URL("page2_2_5-BCOMN-Kx.png",import.meta.url).href,g=""+new URL("page2_3_1-a-KGxGsw.png",import.meta.url).href,m=""+new URL("page2_3_2-CaRLRIzZ.png",import.meta.url).href,_=""+new URL("page2_3_3-B4xurFWd.png",import.meta.url).href,h=""+new URL("page2_3_4-DXKgQZUz.png",import.meta.url).href,y=""+new URL("page2_3_5-DoAtP86P.png",import.meta.url).href,c=""+new URL("page2_3_6-DzIIt4XB.png",import.meta.url).href,u=""+new URL("page2_3_7-BrmxkScW.png",import.meta.url).href,x=""+new URL("page2_4_1-BVrdQYTm.png",import.meta.url).href,b=""+new URL("page2_4_2-CfkKz9rn.png",import.meta.url).href,f=""+new URL("page2_4_3-D22KeLA0.png",import.meta.url).href,T=""+new URL("page2_4_4-BYC3YZ4u.png",import.meta.url).href,K=""+new URL("file1_1_9-B-dVA_qa.png",import.meta.url).href,E=""+new URL("page2_5_1-wAjTQ2-Z.png",import.meta.url).href,N=""+new URL("page2_5_2-Do0xGyBB.png",import.meta.url).href,k=""+new URL("page2_5_3-B-Ic38KA.png",import.meta.url).href,P=""+new URL("page2_6_1-B394_H0Q.png",import.meta.url).href,R=""+new URL("page2_6_2-DozNEwgy.png",import.meta.url).href,B=""+new URL("page2_7_1-CavVWGj1.png",import.meta.url).href,C=""+new URL("page2_7_2-DNQzaL8e.png",import.meta.url).href,I=""+new URL("page2_7_3-DnI82E9m.png",import.meta.url).href,A=""+new URL("page2_9_1-CwDc7oOY.png",import.meta.url).href,L=""+new URL("page2_10_1-C4teezMd.png",import.meta.url).href,i=""+new URL("page2_11_1-SgC84R2U.png",import.meta.url).href,w=""+new URL("page2_11_2-BkHp3SlG.png",import.meta.url).href,F=""+new URL("page2_11_3-iGvmzj0N.png",import.meta.url).href,U=""+new URL("page2_11_4-Cy5lO991.png",import.meta.url).href,S=""+new URL("page2_12_1-BwomdZlS.png",import.meta.url).href,O=""+new URL("page3_1_1-BEb5_4Ib.png",import.meta.url).href,$=""+new URL("page3_1_2-i0HihQm_.png",import.meta.url).href,D=""+new URL("page3_1_3-BLgdbKW6.png",import.meta.url).href,v=""+new URL("page3_2_1-BpGTHK_Z.png",import.meta.url).href,z=""+new URL("page3_2_2-C4qjUn5U.png",import.meta.url).href,X=""+new URL("page3_2_3-au1an7p1.png",import.meta.url).href,H=""+new URL("page3_3_1-BbHjfSjP.png",import.meta.url).href,M=""+new URL("page3_3_2-CUvTPjmF.png",import.meta.url).href,V=""+new URL("page3_3_3-BXxvGLEG.png",import.meta.url).href,j=""+new URL("page3_3_4-C8kHfZ0S.png",import.meta.url).href,G=""+new URL("page3_3_1-BbHjfSjP.png",import.meta.url).href,Z=""+new URL("page3_4_1-BpPdsXjX.png",import.meta.url).href,J=""+new URL("page3_4_2-ByuFDMAL.png",import.meta.url).href,W=""+new URL("page3_4_3-5Nx3b5Ws.png",import.meta.url).href,Y=""+new URL("page3_4_4-DAWMaL3P.png",import.meta.url).href,Q=""+new URL("page3_4_5-CWj1rfx2.png",import.meta.url).href,q=""+new URL("page3_4_6-6jA9NzZN.png",import.meta.url).href,ii=""+new URL("page3_5_1-Bb4yJ5vi.png",import.meta.url).href,li=[{id:"section1",title:"基础知识",content:"",children:[{id:"file1_1",title:"什么是硬件钱包",content:`
+          <p>
+          硬件钱包是一种专门用于生成和存储私钥的电子设备，其核心是使用安全芯片来保护私钥的安全。在加密数字资产领域，私钥是资产所有权的唯一凭证，因此保护私钥的安全至关重要。硬件钱包通过将私钥完全隔离在离线环境中，避免了私钥暴露在网络中的风险，从而显著降低了被盗的可能性。
+</p>
+<h2>硬件钱包的主要特点</h2>
+<p>
+与软件钱包相比，硬件钱包通常具备以下显著优势：
+</p>
+<ol>
+<li>私钥生成与存储的安全性
+<ul><li>硬件钱包使用安全芯片生成和存储私钥，具备高强度的硬件级防护，抵御物理攻击和破解。</li></ul>
+</li>
+<li>完全隔绝网络
+<ul><li>硬件钱包是离线设备，私钥永不接触网络，能够有效防范黑客攻击和网络钓鱼等威胁。</li></ul>
+</li>
+<li>物理按钮和屏幕
+<ul><li>硬件钱包通常配备物理按钮和屏幕，所有交易信息都会在屏幕上显示，用户需要通过按键确认，避免被恶意应用劫持交易。</li></ul>
+</li>
+<li>安全的交易签名
+<ul><li>硬件钱包在设备内部完成交易签名过程，应用程序无法接触到私钥，确保交易安全可靠。</li></ul>
+</li>
+</ol>
+
+<h2>硬件钱包的优势</h2>
+<ol>
+<li>高安全性
+<ul> <li>  将私钥存储在离线环境中，避免网络威胁，最大程度保障资产安全。</li></ul>
+</li>
+<li>用户自主性
+<ul> <li>  私钥由用户全权掌控，硬件钱包厂商无法获取用户的私钥，确保资产真正属于用户。</li></ul>
+</li>
+<li>兼容性强
+<ul> <li>  硬件钱包支持多种区块链资产，适用于大多数主流数字货币，满足用户多样化的资产管理需求。</li></ul>
+</li>
+<li>便于携带
+<ul> <li>  硬件钱包设计小巧，便于随身携带，同时结合 PIN 码、密码等多重防护机制，提升设备的安全性。</li></ul>
+</li>
+</ol>
+<p>
+常见硬件钱包有 <strong> imKey/ Ledger/ Trezor </strong>等，硬件钱包通过将私钥从网络环境中隔离出来，为用户提供了最高级别的资产保护。对于注重安全的用户，尤其是持有大额数字资产时，选择硬件钱包是明智之举。无论是 imKey、Ledger 还是 Trezor，都可以根据自身需求选择适合的产品，以最大限度保障个人数字资产的安全。
+</p>
+        `},{id:"file1_2",title:"什么是助记词",content:`
+          <p>助记词是明文私钥的另一种表现形式，最早是由 BIP39 提案提出，其目的是为了帮助用户记忆复杂的私钥。助记词一般由12、15、18、24个单词构成，这些单词都取自一个固定词库，其生成顺序也是按照一定算法而来，所以用户没必要担心随便输入 12 个单词就会生成一个地址。任何人得到了你的助记词，可以不费吹灰之力的夺走你的资产。所以用户在备份助记词之后，一定要注意三点:</p>
+          <ol>
+          <li> <strong>尽可能采用物理介质备份，例如用笔抄在纸上等或使用</strong> 防火防水防腐蚀的「助记词密盒」，尽可能不要采用截屏或者拍照之后放在联网的设备里，以防被黑客窃取；</li>
+          <li>多次验证备份的助记词是否正确，一旦抄错一两个单词，那么将对后续找回正确的助记词带来巨大的困难；</li>
+          <li>将备份后的助记词妥善保管，做好防盗防丢措施。</li>
+</ol>
+        `},{id:"file1_3",title:"什么是私钥",content:`
+          <h2>什么是私钥？</h2>
+          <p>私钥是区块链交易中用于证明资金所有权的核心凭证。我们常说， <strong> 谁掌握了私钥，谁就掌握了钱包中的资金。</strong>在区块链系统中，私钥用于生成交易签名，以验证资产的所有权和合法性。</p>
+          <p>由于私钥的极端重要性，必须始终保持机密。一旦私钥被泄露，等同于资产的控制权也被转移给了第三方，造成不可挽回的损失。</p>
+          
+          <h2>私钥的基本特征</h2>
+          <ol>
+          <li>
+          机密性
+          <ul> <li>  私钥是访问钱包和资金的唯一凭证，必须确保其不被泄露或复制。</li></ul>
+</li>
+<li>
+          独立性
+          <ul><li>  私钥并不存储在区块链网络中，而是由用户的钱包软件在本地生成并管理。</li></ul>
+</li>
+<li>
+          唯一性
+          <ul> <li>
+            每个私钥是一个独一无二的 64 位 16 进制哈希值字符串，例如：
+            <p>56f759ece75f0ab1b783893cbe390288978d4d4ff24dd233245b4285fcc31cf6</p>
+</li></ul>
+</li>
+<li>
+          功能性
+          <ul> <li>  私钥用于对交易进行签名，以证明发送者对资产的所有权。</li></ul>
+</li>
+</ol>
+
+<h2>私钥的存储方式</h2>
+<p>私钥并不依赖于区块链或网络，而是由用户的钱包生成和存储，具体方式包括：</p>
+<ol>
+<li>文件或数据库存储
+<ul> <li>  私钥通常以文件形式存储在钱包中（如 JSON 文件）。</li></ul>
+</li>
+<li>硬件存储
+<ul> <li>  使用硬件钱包（如 imKey、Ledger）将私钥存储在安全芯片中，离线保存以提升安全性。</li></ul>
+</li>
+<li>助记词形式
+<ul> <li>  私钥也可以通过一组随机生成的单词（助记词）来表达，这些助记词可以帮助用户备份和恢复钱包。</li></ul>
+</li>
+</ol>
+
+<h2>私钥的重要性与风险</h2>
+<ol>
+<li>重要性
+<ul> <li>  在区块链交易中，私钥是生成交易签名的唯一凭证，无法被伪造或替代。</li></ul>
+</li>
+<li>风险
+<p>如果私钥泄露或丢失，可能导致以下问题：</p>
+<ul>
+<li> <strong>资产被盗：</strong>  第三方获取私钥后可随意转移资产。</li>
+<li> <strong>资产无法恢复：</strong>  如果没有备份助记词或私钥，钱包将无法恢复，资产永久丢失。</li>
+</ul>
+</li>
+</ol>
+
+<h2>如何保护私钥？</h2>
+<ol>
+<li>使用硬件钱包
+<ul><li>  选择如 imKey、Ledger 等硬件钱包，将私钥存储在离线环境中，远离网络威胁。</li></ul>
+</li>
+<li>妥善备份
+<ul><li>  将私钥备份在安全的物理介质上，如纸张或防火防水的助记词密盒。</li></ul>
+</li>
+<li>避免泄露
+<ul><li>  不要将私钥存储在联网设备中，也不要通过消息或邮件传输。</li></ul>
+</li>
+<li>设置强密码
+<ul><li>  为钱包设置强密码，增加私钥被破解的难度。</li></ul>
+</li>
+</ol>
+<p>私钥是区块链资产的核心，是用户对资金控制权的根本体现。对私钥的妥善保管不仅能确保资产的安全，也体现了用户对区块链去中心化理念的认知和实践。无论是通过硬件钱包、助记词备份，还是保持良好的安全习惯，都能为你的数字资产构建一道坚固的防线。</p>
+        `},{id:"file1_4",title:"什么是绑定码",content:`
+          <p>
+绑定码由 8 位随机的数字或字母组成，用于 imKey 与
+<a href="http://token.im/" target="_blank"> imToken 客户端</a> /
+<a href="https://support.imkey.im/hc/zh-cn/articles/360055273013-imKey-Manager-%E6%98%AF%E4%BB%80%E4%B9%88-" target="_blank"> imKey Manager</a> 一对一绑定，防止非授权客户端访问 imKey。请务必妥善备份绑定码，以便 imKey 后续重新绑定。绑定码由 imKey 自动生成的，无法人为修改。
+</p>
+<p>注：如果你遇到解除配对 / 退出 imToken 身份 / 卸载 imToken 客户端 / 更换手机等情况，则需要用到绑定码重新绑定。</p>
+
+<h2>如何查看绑定码？</h2>
+<ul>
+<li>如果 imKey 还未完成绑定，在后续绑定过程中会生成绑定码，请妥善备份。</li>
+<li>如果 imKey 已完成绑定，可以打开 imToken 客户端 >我> 管理钱包> 选择配对的 imKey 钱包 > imKey 管理选择「绑定码」进行查看（查看过程中需打开手机蓝牙并连接 imKey）。</li>
+<li>如果绑定码无法查看且没有妥善备份，请不要担心， <strong> 只要备份好了助记词就可以通过重置 imKey </strong>生成新的绑定码，步骤如下：<br>
+ 1、准备好 imKey 硬件钱包的助记词；<br>
+ 2、重置 imKey；<br>
+ 3、设置语言和 PIN 码；<br>
+ 4、用助记词在 imKey 上恢复钱包；<br>
+ 5、重新绑定 imToken 客户端，绑定过程中 imKey 会生成新的绑定码；<br>
+ 6、备份绑定码。</li>
+</ul>
+<p>注：上述过程中遇到任何问题，请发送邮件至 support@imkey.im 与我们联系。</p>
+        `},{id:"file1_5",title:"什么是 PIN 码",content:`
+          <p>当我们谈到数字安全时，PIN 码（个人识别码）是一种常见且重要的保护措施。尤其在使用硬件钱包，如 imKey 时，PIN 码的设置和管理直接关系到我们的资产安全。本文将详细介绍什么是 PIN 码、imKey 硬件钱包中的 PIN 码如何设置及其安全机制，让初级用户也能轻松理解并掌握其使用方法。</p>
+          <h2>什么是 PIN 码?</h2>
+          <p>PIN，全称为 Personal Identification Number，即个人识别码。最早，PIN 码是电信运营商用来保护 SIM 卡的一种安全措施，类似于银行卡的 6 位密码功能。</p>
+          <h2>imKey PIN 码介绍</h2>
+          <p>当你第一次拿到 imKey 硬件钱包时，系统会提示你设置一个 PIN 码。这个 PIN 码由0到9的数字组成，长度在6到8位之间。</p>
+          <p>为了防止 PIN 码被猜到，imKey 在用户设置 PIN 码时会进行安全强度检查。例如，像连续的数字（如123456、345678）或相同的数字（如222222、666666）是不能作为 PIN 码的。</p>
+          
+          <h2>PIN 码的安全机制有哪些？</h2>
+          <p>在使用 imKey 硬件钱包时，每次开机都需要输入 PIN 码。你可以把这个 PIN 码理解为设备的开机密码，这样即使你的 imKey 丢失，恶意用户也无法使用设备。此外，如果连续输错5次 PIN 码，imKey 钱包的敏感信息（比如，私钥、PIN、绑定码）将自动重置，这极大程度上保证了钱包的安全性</p>
+          <p>除此之外呢，imKey 还做了其他安全强化工作</p>
+          <ol>
+          <li>非法设备访问限制
+          <ul><li>任何外部设备（手机和电脑）连接访问 imKey 时，imKey 都需要验证 PIN 码，这使得攻击者必须拿到设备，无法仅通过远程方式攻击。</li></ul>
+</li>
+          <li>访问时间限制
+          <ul><li>imKey 设有访问时间锁，如果连续10分钟内没有任何操作，设备将自动锁定，再次访问时需要重新验证 PIN 码。</li></ul>
+</li>
+</ol>
+<h2>PIN 破解难度到底有多大？</h2>
+<p>别小看 PIN 码只是一个 6~8 位的数字，想要猜对的难度其实相当大。以6位的 PIN 码为例，共有 1,000,000 种组合。假设有人具备足够的资源和尝试次数，对于没有任何专业知识的门外汉来说，要想猜对 PIN 码，平均需要尝试 500,000 次。以每分钟尝试一次计算，大概需要 8333 小时，即约一年左右的时间才能猜对正确的 PIN 码。事实上，由于存在连续输错 5 次 PIN 码设备重置的安全机制，并不存在被暴力破解的可能。</p>
+<h2>安全提示</h2>
+<ul>
+<li>设备开机、锁屏唤醒时都需要输入 PIN 码进行验证，一旦丢失无法找回，请妥善保管；</li>
+<li>切勿使用第三方工具提供的 PIN 码；</li>
+<li>为保证钱包资产安全， <strong> 若连续五次输入错误 PIN 码，imKey 会被强制重置，重置后则需要导入助记词找回钱包。</strong></li>
+</ul>
+<img src="${l}" alt="PIN">
+        `},{id:"file1_6",title:"什么是区块链",content:`
+          <p> <strong> 区块链（Blockchain）是由节点参与的分布式数据库系统，</strong>起源于比特币，最早在 2008 年中本聪提出。区块链是由一串使用密码学方法产生的数据块组成的，每一个区块都包含了上一个区块的哈希值，从创始区块开始连接到当前区块，形成一条区块链。每一个区块都确保按照时间顺序在上一个区块之后产生，否则前一个区块的哈希值是未知的。这些特征使得比特币的双花非常困难。</p>
+          
+          <h2>区块链分为公有链、联盟链和私有链。</h2>
+          <p><strong>公有链：</strong>全世界任何人都可以读取、发送交易进行有效确认、任何人都能参与其共识过程的区块链，典型应用包括比特币、以太坊等。</p>
+          <p><strong>联盟链：</strong>指参与区块链的节点是事先选择好的, 节点间通常有良好的网络连接等合作关系，区块链上的数据可以是公开的也可以是内部的，为部分意义上的分布式，可视为” 多中心化 ”。典型应用包括 Hyperledger、R3 和 EEA 等。</p>
+          <p><strong>私有链：</strong>参与节点只有有限的范围，比如特定机构的自身用户等，数据的访问及使用有严格的权限管理。</p>
+          <p>在区块链发展的早期，基础协议就是为了实现单一的支付功能。随着以太坊平台的出现，区块链进入2.0 时代，完备的底层协议和智能合约的概念，开发者无需深入区块链的底层协议，也可以开发各式各样的去中心化应用 (DApps)。</p>
+        `},{id:"file1_7",title:"什么是多链钱包",content:`
+          <h2>什么是多链钱包？</h2>
+          <p><strong>多链钱包 </strong>是一种能够支持多条公链（主链）及其链上代币存储、交易和管理的数字钱包。换句话说，用户可以通过一个钱包管理多种区块链资产，而不需要为每条区块链单独使用不同的钱包。</p>
+          <p>例如，一个钱包同时支持比特币（Bitcoin）、以太坊（Ethereum）和波场（tron）等区块链的资产管理，这样的钱包就被称为多链钱包。常见的多链钱包括 <strong> imToken </strong>和 <strong> imKey </strong>等。</p>
+          
+          <h3>imKey 硬件钱包：多链钱包的典范</h3>
+          
+          <h2>imKey 硬件钱包 是一款优秀的多链钱包，其支持的功能和特点如下：</h2>
+          <h6>支持的区块链网络</h6>
+          <p>目前，imKey 硬件钱包支持 <strong> 12 条公链 </strong>及其链上代币的存储、交易和管理，包括：</p>
+          <ul>
+          <strong>
+          <li>Ethereum（以太坊）</li>
+          <li>Bitcoin（比特币）</li>
+          <li>Vaulta(原EOS）</li>
+          <li>Cosmos</li>
+          <li>TRON</li>
+          <li>Nervos</li>
+          <li>Litecoin（莱特币）</li>
+          <li>Bitcoin Cash（比特币现金）</li>
+          <li>Polkadot</li>
+          <li>Kusama</li>
+          <li>Filecoin</li>
+          <li>Dogecoin</li>
+
+</strong>
+</ul>
+<p>此外，还支持：</p>
+<ul>
+<li> <strong> 主流 EVM 兼容链 </strong>和 <strong>Layer2 生态网络</strong>（如 BSC、Polygon、Arbitrum 等）</li>
+<li>主流稳定币： <strong> USDT, USDC, DAI</strong></li>
+</ul>
+<h6>多链资产管理</h6>
+<p>通过 imKey，用户可以：</p>
+<ul>
+<li>离线创建并存储一个多链钱包。</li>
+<li>使用一套助记词管理不同链上的资产，无需为每条链额外生成单独的私钥。</li>
+<li>避免多个工具混乱管理私钥的麻烦。</li>
+</ul>
+
+<h2>多链钱包的优势</h2>
+<ol>
+<li>资产管理便利
+<ul><li>用户可以通过一个钱包管理多个区块链网络的资产，节省时间和精力。</li></ul>
+</li>
+<li>更高的安全性
+<ul><li>多链硬件钱包如 imKey，将私钥存储在安全芯片中，隔绝网络攻击的风险。</li></ul>
+</li>
+<li>一套助记词统一管理
+<ul><li>通过一组助记词，用户即可恢复多个区块链的资产，无需分别备份。</li></ul>
+</li>
+<li>广泛的兼容性
+<ul><li>支持多条公链及其链上代币，覆盖了当前主流的区块链生态。</li></ul>
+</li>
+<li>支持稳定币和 DeFi 生态
+<ul><li>方便用户参与去中心化金融（DeFi）和 NFT 等区块链活动。</li></ul>
+</li>
+</ol>
+
+<h2>最后</h2>
+<p>多链钱包是区块链技术发展的重要成果，极大地提升了数字资产管理的便捷性和安全性。以 <strong> imKey 硬件钱包 </strong>为例，其通过支持多条公链及主流代币，同时采用离线存储私钥的设计，成为用户保护和管理加密资产的可靠选择。</p>
+        `},{id:"file1_8",title:"什么是矿工费",content:`
+                <p>BTC、ETH 等数字货币转账过程中都需要支付「矿工费」。矿工费是给区块链网络中矿工 / 验证者的费用，它能够鼓励矿工 / 验证者打包交易，维护区块链网络安全稳定的运行。矿工费也可以理解为区块链网络中的交易费用，类似日常生活中的转账手续费。</p>
+                <h5>矿工费特点：</h5>
+                <ol>
+                <li>矿工费是不断变化的的，具体数量由当时区块链网络的状态决定；</li>
+                <li>不同区块链网络计算矿工费的方式各不相同；</li>
+                <li>矿工费设置越高，交易就会优先被矿工 / 验证者打包；</li>
+                <li>并不是所有代币转账都需要支付矿工费，例如 EOS 转账不需要额外支付矿工费。</li>
+</ol>
+
+<p>矿工费是由所属主网收取的，不同区块链网络计算矿工费的方式各不相同，具体数量由当时区块链网络的状态决定。</p>
+<ul>
+<li>如果你的代币在 BTC 钱包中需要 BTC 作为矿工费；</li>
+<li>如果你的代币在 ETH 钱包中需要 ETH 作为矿工费；</li>
+<li>如果你的代币在 ETH 钱包中需要 ETH 作为矿工费；</li>
+</ul>
+                
+                `},{id:"file1_9",title:"什么是去中心化钱包",content:`
+                <h3>什么是去中心化钱包？</h3>
+                <p> <strong> 去中心化钱包</strong>是一种完全由用户掌控私钥和数字资产的管理工具，资产的所有权和管理权归用户所有，无需依赖任何中心化机构。它基于区块链技术和去中心化架构，使用户能够独立生成、管理和交易数字资产。</p>
+                
+                
+                <h3>去中心化的核心理念</h3>
+                <p>在分布式系统中，每个节点都具有高度自治的特性，能够自由连接其他节点，形成新的网络单元。这种系统没有强制性的中心控制，也没有单一实体掌控数据或信息。</p>
+                <p>区块链技术的支持使得网络中的每一方可以访问整个数据库及其完整历史，并直接验证交易记录，无需中间人。这不仅保障了数据的透明性，还提升了交易的自主性和安全性。</p>
+                
+                <h3>去中心化钱包的主要特征</h3>
+                <ol>
+                <li>用户掌握私钥
+                <ul><li>去中心化钱包在创建时生成私钥和助记词，这些是访问和管理资产的唯一凭证。私钥和助记词存储在用户的设备或硬件中，而非中心化服务器，因此用户完全掌控自己的资产安全。</li></ul>
+</li>
+                <li>无托管
+                <ul><li>与中心化钱包（如交易所钱包）不同，去中心化钱包不会托管用户资产，也不会存储私钥或助记词。这样避免了资产因中心化服务器被攻击或滥用而丢失的风险。</li></ul>
+</li>
+                <li>点对点交易
+                <ul><li>用户可直接与他人进行点对点交易，无需依赖中心化平台。交易通过区块链网络广播，透明且不可篡改。</li></ul>
+</li>
+                <li>去信任
+                <ul><li>区块链的信任机制消除了对中介的依赖。用户可通过区块链验证交易记录，从根本上避免因中介问题导致的资产损失。</li></ul>
+</li>
+                <li>多链兼容性
+                <ul><li>去中心化钱包通常支持多个区块链网络（如 BTC、ETH、TRX），一个钱包即可管理多种数字资产。</li></ul>
+</li>
+</ol>
+
+                <h3>去中心化钱包的优势</h3>
+                <ol>
+                <li>更高的安全性
+                <ul><li>资产和私钥不存储在第三方服务器中，大幅降低了被攻击或泄露的风险。</li></ul>
+</li>
+                <li>完全自主
+                <ul><li>用户独立掌控资产，避免因中心化平台倒闭、冻结账户等问题导致资产受损。</li></ul>
+</li>
+                <li>隐私保护
+                <ul><li>用户无需提供身份信息即可使用钱包，有效保护个人隐私。</li></ul>
+</li>
+</ol>
+
+                <h3>使用去中心化钱包的注意事项</h3>
+                <ol>
+                <li>备份助记词
+                <ul><li>助记词是找回资产的唯一途径。一旦丢失或泄露，可能导致资产丢失或被盗。</li></ul>
+</li>
+                <li>安全保管私钥
+                <ul><li>避免将私钥或助记词存储在联网设备中，推荐使用硬件钱包或其他加密工具妥善保存。</li></ul>
+</li>
+                <li>防范钓鱼攻击
+                <ul><li>不点击未知链接，也不将助记词输入至非官方应用中，避免遭受资产盗窃。</li></ul>
+</li>
+                <li>选择可靠的钱包
+                <ul><li>使用经过安全审计的钱包软件或硬件，确保其安全性和稳定性。</li></ul>
+</li>
+</ol>
+
+                <h3>去中心化钱包</h3>
+                <ul>
+                <li><strong>imKey 硬件钱包：</strong>专注于冷钱包安全，助记词和私钥全程离线存储，用户完全掌控资产，适合长期持有大额数字资产。</li>
+                <li><strong>imToken 软件钱包：</strong>轻便易用，支持多链切换，适合频繁交互的用户。</li>
+</ul>
+<p>通过去中心化钱包，用户不仅能有效保障资产安全，还能享受区块链带来的去中心化、透明和高效的交易体验。无论是新手还是资深用户，都应对私钥和助记词妥善保管，全面保护自己的数字资产。</p>
+
+                `},{id:"file1_10",title:"什么是去中心化交易所",content:`
+                <p>目前，大部分数字货币交易所都是中心化的，这类交易所虽然为用户提供了便利的买卖代币功能，但也存在不少安全和监管风险。中心化交易所的核心问题是，用户的资金和资产由平台托管，一旦平台遭到黑客攻击或出现管理失误，用户的资产可能会被盗取。此外，中心化交易所面临的监管压力较大，不同国家的政策不一，可能会导致平台面临合规风险，用户资金的安全性和隐私也受到威胁。</p>
+                
+                <h3>去中心化交易所的优势</h3>
+                <p>去中心化交易所（DEX）利用区块链技术，在链上直接建立点对点的市场，解决了中心化交易所面临的一些问题，尤其是在资金控制和安全性方面。去中心化交易所的主要优势包括：</p>
+                <ol>
+                <li>用户控制资金
+                <ul><li>在去中心化交易所，用户的资产不需要充值到交易所，而是始终保存在用户自己的钱包中。交易通过智能合约直接执行，确保用户对资产的完全控制，避免平台遭受攻击时资金被盗的风险。</li></ul>
+</li>
+                <li>去中介化
+                <ul><li>传统的交易所需要一个第三方平台作为中介来处理交易和托管资产，而去中心化交易所通过区块链技术，使得交易直接在用户之间完成，无需中介，降低了对平台的信任依赖。</li></ul>
+</li>
+                <li>增强隐私保护
+                <ul><li>去中心化交易所通常不要求用户进行身份认证，用户可以匿名进行交易，从而更好地保护个人隐私。</li></ul>
+</li>
+                <li>抗审查性
+                <ul><li>由于没有中央管理机构，去中心化交易所不容易被政府或第三方机构审查或关闭。交易活动在区块链上公开透明，但无法被篡改或干预。</li></ul>
+</li>
+</ol>
+
+                <h3>去中心化交易所的挑战</h3>
+                <p>尽管去中心化交易所提供了更高的安全性和控制权，但仍然面临一些挑战和不足，尤其在以下几个方面：</p>
+                <ol>
+                <li>交易效率低
+                <ul><li>去中心化交易所的交易通常依赖于区块链网络的确认速度，而区块链的处理能力相对较低，尤其是在高流量时，交易速度较慢，可能导致较长的等待时间。</li></ul>
+</li>
+                <li>流动性不足
+                <ul><li>相比于中心化交易所，去中心化交易所的市场深度较浅，流动性较差。这意味着大额交易可能会引发较大的价格波动，且执行效率较低。</li></ul>
+</li>
+                <li>用户体验较差
+                <ul><li>使用去中心化交易所需要一定的区块链知识，如如何使用钱包、管理私钥等。对于新手用户而言，操作较为复杂，门槛较高，体验不如中心化平台那样直观和便捷。</li></ul>
+</li>
+                <li>交易费用较高
+                <ul><li>去中心化交易所的交易费用通常与区块链网络的手续费挂钩（例如，以太坊的Gas费）。 <br> 对于频繁交易的用户来说，高额的手续费可能会对交易成本造成较大影响。</li></ul>
+</li>
+                <li>功能不完善
+                <ul><li>去中心化交易所通常不支持法币交易，且缺乏诸如期货、杠杆等更复杂的金融工具，这使得其功能性和中心化交易所相比较为单一。</li></ul>
+</li>
+</ol>
+                <h3>总结</h3>
+                <p>去中心化交易所作为一种新兴的交易模式，解决了中心化平台的很多问题，尤其在资产安全、隐私保护和去信任化方面具有显著优势。然而，去中心化交易所仍面临着交易效率、流动性、用户体验等方面的挑战。随着技术的不断进步，去中心化交易所可能会在未来不断优化，提供更高效、更稳定、更易用的交易体验，从而推动数字货币市场的去中心化进程。</p>
+                `},{id:"file1_11",title:"什么是 NFT",content:`
+                <h3>什么是 NFT ？</h3>
+                <p>NFT（非同质化代币，Non-Fungible Token）是一种基于区块链技术的数字资产，它代表了独特物品或资产的所有权。与加密货币（如比特币）不同，NFT 是不可替代的，每个 NFT 都具有独特的属性和价值，因此不能与其他代币互换。NFT 的独特性使得它成为数字艺术、游戏道具、收藏品等领域的重要载体。</p>
+                
+                <h3>NFT 的特点：</h3>
+                <ol>
+                <li><strong>唯一性：</strong>每个 NFT 都有一个独特的标识符，它的属性和元数据在区块链上是唯一的，无法复制或替代。</li>
+                <li><strong>不可分割性：</strong>与比特币等加密货币不同，NFT 不能被拆分成更小的单位。每个NFT 只能作为一个完整的单元进行交易。</li>
+                <li><strong>去中心化：</strong>NFT 存储在区块链上，区块链确保每个 NFT 的所有权和交易记录公开、透明且不可篡改。</li>
+                <li><strong>可验证性：</strong>由于 NFT 注册在区块链上，任何人都可以验证其真实性，确保资产的唯一性和合法性。</li>
+</ol>
+
+                <h3>常见 NFT 平台</h3>
+                <p>为了交易和购买 NFT 艺术作品，艺术家和收藏者可以选择多个市场平台，以下是一些主流平台：</p>
+                <ol>
+                <li>OpenSea
+                <ul><li>OpenSea 是全球最大的 NFT 市场之一，支持用户创建、购买和出售各种 NFT，尤其以艺术品、音乐、域名等为主。支持的区块链包括以太坊、Polygon 和 Klaytn 等。</li></ul>
+                <ul><li>OpenSea 为艺术家提供了轻松发布作品的途径，并允许设置版税比例。</li></ul>
+</li>
+                <li>Rarible
+                <ul><li>Rarible 是一个社区驱动的 NFT 平台，艺术家可以在平台上发行、销售 NFT，并自定义版税。Rarible 采用去中心化治理机制，用户可以通过持有平台代币参与决策。</li></ul>
+</li>
+                <li>Foundation
+                <ul><li>Foundation 是一个专注于高质量数字艺术作品的 NFT 平台，艺术家需要通过邀请才能发布作品。该平台强调艺术的原创性与收藏价值，同时支持创作者在每次作品转售时获得版税。</li></ul>
+</li>
+                <li>SuperRare
+                <ul><li>SuperRare 是一个高端 NFT 市场，专注于独特的数字艺术作品，艺术家需通过平台审核才能发布。平台支持版税功能，确保创作者在作品转售过程中获得收入。</li></ul>
+</li>
+</ol>
+
+                <h3>NFT 的艺术创新</h3>
+                <p>NFT 不仅改变了艺术品的销售和交易方式，还推动了艺术创作的创新：</p>
+                <ul>
+                <li><strong>无限复制但唯一所有权：</strong>NFT 作品可以被复制或截图，但每个 NFT 都有唯一的区块链记录，这确保了作品的原始所有权和收藏价值，使得数字艺术在虚拟世界中具备稀缺性。</li>
+                <li><strong>互动性和可编程性：</strong>艺术家可以通过智能合约为 NFT 作品加入互动元素。例如，某些 NFT 可以随着持有者行为的变化而动态变化，或在特定条件下触发新的内容更新。</li>
+                <li><strong>跨平台展示：</strong>NFT 艺术品不局限于单一平台展示，艺术家可以将作品跨平台发布，提高作品的曝光率，扩大市场影响力。</li>
+                <li><strong>分散式收藏：</strong>通过 NFT，艺术收藏变得不再依赖物理空间，艺术品可以在全球范围内的数字平台中流通，并且通过区块链交易进行访问和交易。</li>
+</ul>
+<p>NFT 技术的应用正在不断拓展和创新。随着 Web3、去中心化金融（DeFi）和虚拟世界等概念的发展，NFT 的应用场景将变得更加广泛，可能涵盖更多的领域，如知识产权管理、医疗数据管理、教育认证等。NFT 不仅仅是数字收藏品，它们的潜力在于它们如何改变我们对所有权、价值和数据控制的理解。随着技术和市场的不断发展，NFT 有望在更多实际应用中发挥更大的作用。</p>
+                
+                `},{id:"file1_12",title:"什么是 EVM 兼容链",content:`
+                <p>2021 年，以太坊网络上结算了超 6 万亿美元的交易，支持了 DeFi、NFT、游戏等区块链应用的蓬勃发展。但由于以太坊每秒只能处理约 15 笔交易，激增的交易需求导致其网络长期拥堵，交易费用居高不下。</p>
+                <p>由此一些开发者开始构建交易成本更低，结算速度更快的全新区块链，并提供兼容 EVM 的特性，以此更好地承接从以太坊生态外溢的需求和吸引新用户，这些链都可称作 EVM 兼容链。</p>
+                <p><strong>EVM：</strong>是 Ethereum Virtual Machine 以太坊虚拟机的简称，EVM 之于以太坊，就像 CPU 之于计算机。EVM 允许在区块链上验证和执行代码，为代码在每台设备上以相同方式运行提供保障。</p>
+                <p>EVM 兼容链提供了一个类似 EVM 的代码执行环境，便于以太坊开发者将智能合约迁移至兼容链，而不必为其再从头开始编写智能合约的代码。</p>
+                <p>当前主流的 EVM 兼容链有 BSC（Binance Smart Chain），Polygon(Matic)，OKX Chain 等。</p>
+                
+                `}]},{id:"section2",title:"imKey 钱包管理",content:"",children:[{id:"file2_1",title:"如何添加账户？",content:`
+                <ol>
+                <li>
+                <p>点击「我」-「钱包管理」，选择已经配对的 imKey 硬件钱包点「添加账户」按钮进行添加。</p>
+                <img src="${e}" alt="page2_1_1">
+</li>
+                <li>
+                <p>硬件钱包 imKey 默认支持 Ethereum（ETH）和 Bitcoin（BTC），如需添加其他网络，请先确保手机蓝牙已成功与 imKey 硬件钱包连接，接着在 imKey 管理界面上找到 「应用管理」，安装需添加的网络
+                <span style="color: #999">（这里以添加 TRX 公链为列）</span>。</p>
+                <img src="${t}" alt="page2_1_2">
+</li>
+                <li>
+                <p>安装好所需公链后返回「imKey 管理」，点击「添加账户」进行账户添加。完成后，在资产首页点击左上角的账户名称，即可查看并管理钱包中已添加的所有账户。</p>
+                <img src="${p}" alt="page2_1_3">
+</li>
+</ol>
+
+<h2>如何切换账户</h2>
+<p>在钱包资产首页，点击左上角的账户名称即可查看所有已添加的账户。如需切换账户，在「选择账户」页中点击对应账户即可。</p>
+<img src="${d}" alt="page2_1_4">
+                `},{id:"file2_2",title:"如何添加派生地址教程",content:`
+                <p>imToken 2.15.0 版本支持派生地址功能，imKey 也同步支持这一功能。如果你想使用多个地址来增强安全性和提高隐私性时，推荐使用派生地址功能。</p>
+                
+                <h2>imKey 如何添加派生地址</h2>
+                <p>为了在 imKey 硬件钱包中通过地址派生添加账户，你有两个选项：采用默认设置或进行自定义配置。在开始此过程前，<strong>请确保你的手机蓝牙已经成功连接到 imKey 硬件钱包</strong>，以保证操作顺畅进行。</p>
+                
+                <h3>默认添加方式：</h3>
+                <ol>
+                <li>
+                <p>点「我」-「钱包管理」-选择配对的 imKey，点击「添加账户」</p>
+                <img src="${r}" alt="page2_2_1">
+</li>
+                <li>
+                <p>选择需要添加的账户点「+」-「确认」，完成后，在资产首页点击左上角的账户名称，即可查看并管理钱包中已添加的账户。<span>（这里以添加 ETH 地址为例）</span></p>
+                <img src="${o}" alt="page2_2_2">
+</li>
+</ol>
+
+<h3>自定义添加方式：</h3>
+<ol>
+<li>
+<p>点「我」-「钱包管理」-选择配对的 imKey「添加账户」</p>
+<img src="${a}" alt="page2_2_3">
+</li>
+<li>
+<p>选择需要添加的账户点击右上角的三个点，选择「高级模式」-「自定义」-「BIP44」</p>
+<img src="${n}" alt="page2_2_4">
+</li>
+<li>
+<p>选择 BIP44 后你可以输入派生路径最后的三个参数生成自定义路径的账户，点击「确认」，完成后，在资产首页点击左上角的账户名称，即可查看并管理钱包中已添加的账户。<span>（这里以添加 ETH 地址为例）</span></p>
+<img src="${s}" alt="page2_2_5">
+</li>
+</ol>
+<p>请注意，选择自定义的模式时，请务必妥善备份自定义的账户派生路径。若之后删除钱包进行再次恢复时，需输入派生路径才能正常恢复。因为 imToken 不会记录用户自定义路径的任何信息，一旦丢失无法找回。</p>
+                `},{id:"file2_3",title:"如何在 imKey 钱包中添加代币",content:`
+                <p>在数字资产管理中，确保钱包中代币的正确显示是至关重要的。imKey 硬件钱包支持多种区块链和网络，为用户提供了强大的资产管理功能。然而，有时转入的代币可能不会自动显示在钱包首页，此时需要手动添加。本文将详细介绍如何手动添加代币，以确保您能够轻松查看和管理你的数字代币。</p>
+                
+                <h2>如何手动添加代币？</h2>
+                <h3>在账户首页点击「+」进入代币管理页面，参考以下添加代币的四种方式：</h3>
+                <p>方式一：点击「我的所有资产」，点击代币右侧「+」添加到账户首页。注：新代币转入时，「+」会有红点标记提醒。</p>
+                <img src="${g}" alt="page2_3_1">
+                <p>方式二：在「热门资产」列表中找到想要添加的代币，点击右侧「+」添加到账户首页。</p>
+                <img src="${m}" alt="page2_3_2">
+                <p>方式三：在上方搜索框内输入 Token 名称 / 合约地址进行搜索添加。</p>
+                <img src="${_}" alt="page2_3_3">
+                <p><strong>搜索代币时的注意事项：</strong></p>
+                <ul>
+                <li>如果未搜索到相关代币，请尝试通过合约地址进行搜索添加。</li>
+                <li>如果搜索到很多同名代币，请根据合约地址判断并选择正确的代币。</li>
+</ul>
+                <p>方式四：选择「自定义代币」，输入代币合约地址并点击右上角的「保存」添加到账户首页。</p>
+                <p><span style="color: #999">注：输入代币合约地址时，Symbol 与 Decimal 的参数会被自动获取。目前，Tron、Cosmos、Osmosis 账户不支持自定义代币功能。</span></p>
+                <img src="${h}" alt="page2_3_4">
+                
+                <h3>调整显示顺序和隐藏</h3>
+                <p>你可以按需调整账户首页的代币显示顺序，或者隐藏不需要的代币。参考步骤：在账户首页，点击「+」-「首页资产管理」</p>
+                <ul>
+                <li>长按代币右侧三条横线上下拖动来调整显示顺序。或者点击「默认方式」按照默认 / 价值 / 名称进行排序。</li>
+                <li>点击代币左侧的「-」-「删除」可取消该代币在资产首页的显示，隐藏不常用的代币。</li>
+</ul>
+                <img src="${y}" alt="page2_3_5">
+                
+                <h2>如何查询代币合约地址</h2>
+                <p>如果你不知道所需添加代币的合约地址，可通过区块浏览器进行查询。这里以以太坊浏览器 Etherscan 为例。</p>
+                <p>1. 打开 imToken 并切换至「浏览」页，搜索并进入「Etherscan」。</p>
+                <p><span style="color: #999">注：如果想搜索其他网络的浏览器，在搜索框内输入网络名称即可看到对应的浏览器 DApp。例如：需要搜索 Arbitrum 浏览器，输入 Arbitrum 即可。</span></p>
+                <img src="${c}" alt="page2_3_6">
+                <p>2. 在搜索框输入代币名称（如 USDT），在搜索结果中选择你需查询的代币，点击进入代币详情页。在 Other Info 模块下的 TOKEN CONTRACT 即为代币合约地址。</p>
+                <img src="${u}" alt="page2_3_7">
+                `},{id:"file2_4",title:"换新手机时，imKey 该如何重新绑定？",content:`
+                                <div class="video-container">
+    <iframe 
+        src="//player.bilibili.com/player.html?isOutside=true&aid=114492537115529&bvid=BV1rmELz3E55&cid=29917185648&p=1" 
+        frameborder="0" 
+        allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"
+        loading="lazy"
+        referrerpolicy="no-referrer"
+        title="更换手机时， imKey 该如何重新绑定"
+        class="responsive-iframe">
+    </iframe>
+</div>
+
+                <p>换新手机时，重新绑定 imKey 有以下 2 种方法：</p>
+                <ol>
+                <li>使用 PIN 码和绑定码；</li>
+                <li>使用助记词。</li>
+</ol>
+
+                <h2>使用 PIN 码和绑定码重新绑定 imKey，操作方法如下：</h2>
+                <ol>
+                <li>使用 PIN 码打开 imKey；</li>
+                <li>在新手机上下载 imToken；</li>
+                <li>创建或恢复 imToken 钱包后，安装完成后，并打开 imToken，可以选择创建钱包或导入钱包。</li>
+                <li>打开 imToken 点击「我」-「管理钱包」
+                <img src="${x}" alt="page2_4_1">
+                </li>
+                <li>在「钱包管理」页面点击右上方「+」号，选择「连接其他钱包」，进入后选择「imKey」；
+                <img src="${b}" alt="page2_4_2">
+                </li>
+                <li>选择连接设备，出现蓝牙配对请求，输入 imKey 上显示的蓝牙配对码，点击「配对」；
+                <img src="${f}" alt="page2_4_3">
+                </li>
+                <li>输入绑定码，导入钱包；
+                <img src="${T}" alt="page2_4_4">
+                </li>
+                <li>待钱包导入之后，即绑定成功。
+                <img src="${K}" alt="page2_4_5">
+                </li>
+</ol>
+
+                <h2>使用助记词重新绑定 imKey, 操作方法如下（此方法适用于忘记 PIN 码或绑定码的情况）：</h2>
+                <ol>
+                <li>重置 imKey，连续输入 5 次错误的 PIN 码，设置新的 PIN 码，用助记词恢复钱包（注意是将助记词输入 imKey 硬件钱包，请勿将助记词输入 imToken app）；</li>
+                <li>按照第一种方式，打开 imToken，配对 imKey 即可。</li>
+</ol>
+                `},{id:"file2_5",title:"如何在 imKey Pro 恢复钱包",content:`
+                <div class="video-container">
+    <iframe 
+        src="//player.bilibili.com/player.html?isOutside=true&aid=114492771933997&bvid=BV1YJELz8EUZ&cid=29917970886&p=1" 
+        frameborder="0" 
+        allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"
+        loading="lazy"
+        referrerpolicy="no-referrer"
+        title="如何在 imKey Pro 硬件钱包中恢复钱包"
+        class="responsive-iframe">
+    </iframe>
+</div>
+
+                <p>如果想在 imKey Pro 硬件钱包中使用已有的钱包，可以使用「恢复钱包」 功能。</p>
+                <p>
+                恢复钱包之前，请注意：
+                <strong>将「身份钱包」或 imToken 软件端已「创建 / 导入」的钱包助记词导入硬件设备，imToken 会提示 <a href="https://imkeyofficial.feishu.cn/wiki/wikcndv2c1NnmBFbqKSTn0fSCTf">「钱包已存在，请勿导入相同钱包」</a>；另外，将软件钱包生成的助记词导入硬件设备是没有意义的，因为该助记词在生成时已经触网，硬件设备无法再提供保护； </strong>
+</p>
+
+                <h2>如何在 imKey Pro 恢复钱包？ </h2>
+                <ol>
+                <li>
+                <p>开启 imKey Pro，根据界面提示设置语言和 PIN 码，然后选择「恢复钱包」并按「OK」键确认；</p>
+                <p><span style="color: #999">注：如果 imKey Pro 已导入其他助记词，需要先重置 imKey ，然后进行步骤 1。</span></p>
+                <img src="${E}" alt="page2_5_1">
+</li>
+                <li>
+                <p>选择助记词对应的单词数量并按「OK」键确认；</p>
+                <img src="${N}" alt="page2_5_2">
+</li>
+                <li>
+                <p>输入助记词后，设备会显示「钱包恢复中，预计 2 分钟完成」；</p>
+                <p><span style="color: #999">注：上下按钮切换，OK 确认，C 取消。</span></p>
+                <img src="${k}" alt="page2_5_3">
+</li>
+                <li>待出现「钱包恢复成功」的提示后，与 <a href="https://imkeyofficial.feishu.cn/wiki/OJUXwp58HiwRbekBmDYcoDKnnxb">imToken 绑定</a>即可正常使用。</li>
+</ol>
+                `},{id:"file2_6",title:"设置和修改 PIN 码",content:`
+                <div class="video-container">
+    <iframe 
+        src="//player.bilibili.com/player.html?isOutside=true&aid=114492755156468&bvid=BV1anELzfE9A&cid=29917841802&p=1" 
+        frameborder="0" 
+        allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"
+        loading="lazy"
+        referrerpolicy="no-referrer"
+        title="如何设置和修改 imKey 的PIN 码"
+        class="responsive-iframe">
+    </iframe>
+</div>
+
+                <h1>PIN 有什么作用？</h1>
+                <ul><li>PIN 码是硬件钱包的开机密码，类似手机的锁屏密码，没有 PIN 码，就无法打开你的 imKey。imKey 在创建或者恢复钱包前必须设置 PIN 码，用来防止设备被他人盗用，这是保护数字资产安全的一种有效措施。同时，imKey 采用物理按钮输入 PIN 码的方式，大大降低了 PIN 码被截获的可能，保证了 PIN 码输入的安全性。</li></ul>
+                <h1>如何设置与修改 PIN 码</h1>
+                <ul>
+                <li>在 imKey 与 imToken 绑定并成功激活后要求设置 PIN 码才能使用 imKey。</li>
+                <li>PIN 码用于日常使用中解锁 imKey，为 imKey 增加了一层安全防护。</li>
+</ul>
+
+                <h3>设置方式</h3>
+                <ol>
+                <li>imKey 的 PIN 码设置要求为 6 - 8 位数字，不支持相同或连续的数字组合。</li>
+                <li>imKey 上显示「<strong>设置 PIN </strong>」进入设置流程。</li>
+                <li>设置每一位的数字，上下按钮切换，点击「<strong>OK</strong>」确认，点击「<strong>C</strong>」取消。
+                <img src="${P}" alt="page2_6_1">
+                </li>
+                <li>重复此过程，直到选择了 PIN 码的所有数字。（如果你想设置 6 位 PIN 码，在第 7 位出现「✔️」符号时点击「<strong>OK</strong>」按钮即可完成设置。如果你想设置 7 位或者 8 位 PIN 码，在显示「✔️」符号时，通过切换按钮切换成数字并确认即可。）</li>
+                <li>再次输入 PIN 码进行确认
+                <img src="${R}" alt="page2_6_2">
+</li>
+</ol>
+
+                <h3>修改 PIN 码</h3>
+                <ul><li>
+                输入 PIN 开启 imKey，点击「<strong>OK</strong>」进入钱包设置界面，选择「<strong>设置</strong>」—「<strong>修改 PIN</strong>」，输入原 PIN 码进行身份确认，然后重新设置 PIN 码即可。
+</li></ul>
+
+                <h3>安全提示</h3>
+                <ol>
+                <li>PIN 码用于解锁 imKey，丢失无法找回，请妥善保管；</li>
+                <li>不支持相同或连续的数字组合；</li>
+                <li>切勿使用随机 PIN 码和第三方工具提供的 PIN 码。</li>
+                <li>为保证钱包资产安全，连续五次输入错误的 PIN 码，imKey 会被强制重置。</li>
+</ol>
+                `},{id:"file2_7",title:"如何解除配对",content:`
+                <p>当用户遗忘硬件设备 imKey 的 PIN 码时，为了恢复访问权限并确保安全，需要硬件重置操作设置一个新的 PIN 码。这个过程不仅会生成一个新的 PIN 码，还会同时生成一个新的绑定码。由于绑定码用于与 imToken 连接，因此，在完成重置之后，先前基于旧绑定码所建立的所有配对都必须先解除，并且需按照新的绑定码流程重新进行配对。</p>
+                <h2>如何解除配对</h2>
+                <ol>
+                <li>打开 imToken app 点「我」-「钱包管理」
+                <img src="${B}" alt="page2_7_1">
+</li>
+                <li>点击配对的硬件钱包
+                <img src="${C}" alt="page2_7_2">
+</li>
+                <li>点击「解除配对」-「确认」
+                <img src="${I}" alt="page2_7_3">
+</li>
+</ol>
+                `},{id:"file2_8",title:"重置硬件设备",content:`
+                                                <div class="video-container">
+    <iframe 
+        src="//player.bilibili.com/player.html?isOutside=true&aid=114492771930722&bvid=BV1eJELz8EBt&cid=29917971535&p=1" 
+        frameborder="0" 
+        allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"
+        loading="lazy"
+        referrerpolicy="no-referrer"
+        title="如何重置 imKey Pro 硬件钱包MOV"
+        class="responsive-iframe">
+    </iframe>
+</div>
+
+<p>在以下几个场景可以使用重置 imKey 的功能：</p>
+<ol>
+<li>在未备份 PIN 码的情况下重置 PIN 码</li>
+<li>删除已有的钱包，重新创建 / 导入钱包</li>
+<li>imKey 已绑定的设备丢失，未保存绑定码的情况下绑定新设备</li>
+</ol>
+<p><strong>特别提示：</strong></p>
+<ul><li><strong>无论以上哪种场景</strong>，请务必确认已经备份了 imKey 钱包的助记词！否则将会导致资产永远丢失！</li></ul>
+
+<h3>imKey 有两种重置方式:</h3>
+<ol>
+<li>连续 5 次输入错误的 PIN 码重置 imKey（适用于上文提到的第一种情况）</li>
+<li>输入 PIN 开启 imKey，点击「OK」进入钱包设置界面，选择「设置」—「重置」，输入 PIN 码后点击「OK」即可完成重置。</li>
+</ol>
+                
+                `},{id:"file2_9",title:"提示「账户已在钱包中存在，不能重复添加」？",content:`
+                <h2>APP 提示「账户已在钱包中存在，不能重复添加」</h2>
+                <img src="${A}" alt="page2_9_1">
+                <p>当 APP 提示「账户已在钱包中存在，不能重复添加」时，通常是因为你将 imToken 身份钱包的助记词导入 imKey，或者将 imKey 创建的助记词导入 imToken。我们的产品机制要求你先有一个 imToken 身份钱包并登录，再连接 imKey 钱包。导入相同助记词会导致该提示出现。</p>
+                <p><strong>注：通过 imKey 创建的钱包更安全，因为私钥离线存储在 imKey 硬件钱包的安全芯片中，隔离网络环境存储（物理隔绝）。</strong></p>
+                
+                <h2>解决方法：创建新的冷钱包</h2>
+                <p>如果助记词已经触网，建议将此钱包作为身份钱包使用。现在请用 imKey 创建一个新的冷钱包。具体操作如下：</p>
+                <h3>步骤一：重置 imKey</h3>
+                <ol>
+                <li>输入 PIN 开启 imKey，点击「OK」键。</li>
+                <li>选择「设置」，进入界面后选择「重置」。</li>
+</ol>
+                <h3>步骤二：创建新钱包</h3>
+                <ol>
+                <li>重置后，选择「语言」并设置新的 PIN 码。</li>
+                <li>选择「创建钱包」，并备份好 imKey 钱包的助记词。</li>
+</ol>
+                <h3>步骤三：配对硬件钱包</h3>
+                <ol>
+                <li>打开 imToken，点击「我」-「钱包管理」-「添加钱包」-「链接其他钱包」-「imKey」。</li>
+                <li>输入新生成的绑定码，完成配对（需妥善保存新生成的绑定码）。</li>
+</ol>
+                <h3>步骤四：资产转移</h3>
+                <ol>
+                <li> 将热钱包里的资产转移到新生成的 imKey 冷钱包中。</li>
+</ol>
+
+                <h2>最后</h2>
+                <p>请确保两套钱包由不同的助记词管理，并妥善备份。通过以上步骤，你可以安全地创建和管理你的钱包，避免重复导入相同的助记词。</p>
+                <p style="color: #409eff">注：如果问题仍然无法解决，请发送邮件至 support@imkey.im 与我们联系。</p>
+                `},{id:"file2_10",title:"蓝牙配对时提示「无法找到设备」怎么办？",content:`
+                <h2>如何解决 imKey 和 imToken APP 蓝牙配对问题</h2>
+                <img src="${L}" alt="page2_10_1">
+                <p>在 imKey 和 imToken APP 进行蓝牙配对过程中，如果 APP 提示「无法找到设备」，可以根据以下步骤进行检查并解决问题：</p>
+                
+                <h3>1. 苹果手机</h3>
+                <ul>
+                <li>开启手机网络和蓝牙功能。</li>
+                <li>在手机「设置」—「隐私」—「蓝牙」中找到 imToken 并打开蓝牙权限。</li>
+</ul>
+                <h3>2. 安卓手机</h3>
+                <ul>
+                <li>开启手机网络、蓝牙功能和 GPS 定位服务。</li>
+                <li>在手机「设置」的应用管理中找到 imToken 并开启访问位置信息权限。</li>
+                <li>华为手机需要进入手机设置，找到「应用和服务」—「权限管理」—「应用」—「imToken」—「附近设备」，并允许打开权限。</li>
+</ul>
+                <h3>3. 蓝牙占用问题</h3>
+                <ul>
+                <li>如果蓝牙已被其他设备占用，先在手机「设置」中取消其配对，然后返回 APP 重新进行配对。</li>
+</ul>
+                <h3>4. imKey 充电状态</h3>
+                <ul>
+                <li>imKey 在<strong>关机状态下充电</strong>时无法进行蓝牙连接，建议断电后再启动 imKey 进行操作。</li>
+</ul>
+ <p style="color: #409eff">注：如果问题仍然无法解决，请发送邮件至 support@imkey.im 与我们联系。</p>
+                `},{id:"file2_11",title:"如何快速判别 imKey Pro 是否已被激活",content:`
+                <p>使用硬件钱包管理加密资产已成为保护数字资产安全的常见方法。imKey 硬件钱包作为一种高安全性设备，为用户提供了自主掌控资产的工具。然而，我们发现有不法分子假冒我司授权经销商，在电商平台和仿冒官网等渠道销售已被激活的硬件钱包，并诱骗用户存入资金进行盗窃。本文将帮助用户快速判断新购买的 imKey Pro 是否已被激活，确保资产安全。</p>
+                <h1>首次使用未启用（未激活） imKey 的关键操作指南</h1>
+                <h2>第一步：语言选择</h2>
+                <ul>
+                <li>首次使用 imKey 时，开机后首先进入「语言选择」界面。用户可以根据需要选择适合的语言。
+                <img src="${i}" alt="page2_11_1"></li>
+</ul>
+                <h2>第二步：蓝牙连接</h2>
+                <ul>
+                <li>语言选择完成后，设备会显示提示，要求与 imToken app 进行蓝牙连接。确保手机已开启蓝牙功能，并按照提示完成连接。
+                <img src="${w}" alt="page2_11_2">
+                </li>
+</ul>
+                <h2>第三步：设备激活</h2>
+                <ul>
+                <li>蓝牙连接成功后，按提示完成操作，最终 imKey 屏幕会提示「激活成功」。此时，设备已经成功激活，可以进行后续操作。
+                <img src="${F}" alt="page2_11_3">
+                </li>
+</ul>
+
+<h2>重要提示：</h2>
+<h2>确认屏幕显示内容</h2>
+<table style="border-collapse: collapse; width: 100%;">
+<tr>
+<th style="border: 1px solid #ddd; padding: 8px; background-color: #f2f2f2;">未启用（未激活）设备</th>
+<th style="border: 1px solid #ddd; padding: 8px; background-color: #f2f2f2;">已启用（已激活）设备</th>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">首次使用时，开机会进入语言选择界面，然后提示进行蓝牙连接和设备激活。</td>
+<td style="border: 1px solid #ddd; padding: 8px;">首次使用时，开机会进入语言选择界面，然后提示进行蓝牙连接和设备激活。	如果开机后首先提示输入 PIN 码，则该设备存在风险，可能已被不法分子使用过。</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;"><img src="${i}" alt="page2_11_1"></td>
+<td style="border: 1px solid #ddd; padding: 8px;"><img src="${U}" alt="page2_11_4"></td>
+</tr>
+</table>
+
+<h2>创建钱包和备份助记词</h2>
+<p>在使用 imKey 硬件钱包时，务必自行创建钱包并妥善备份助记词。助记词是恢复钱包的唯一方式，必须安全存放。</p>
+<ul>
+<li><strong>风险提示：</strong>如果使用说明中有任何内容诱导用户相信 imKey 硬件钱包不需要助记词，则该钱包存在风险。</li>
+</ul>
+
+<h2>确认设备真伪</h2>
+<p>若经过上述检验步骤后，仍无法确认设备真伪或仍有顾虑，请联系 imKey 人工客服确认，确保你的设备为官方正品，保障数字资产的安全。</p>
+<ul>
+<li>官方邮箱：<a href="mailto:support@imkey.im" target="_blank"> support@imkey.im</a></li>
+</ul>
+<p>通过本文提供的简单步骤和检查，用户可以快速判断新购买的 imKey Pro 是否已被激活，从而消除潜在的安全风险。确保您的 imKey 设备为未激活的正品，能够有效保护您的数字资产。如果有任何疑问，请及时联系 imKey 客服获取帮助。</p>
+
+                `},{id:"file2_12",title:"如何查看 imKey Pro 的 SN 码？",content:`
+                <h3>什么是 SN 码？</h3>
+                <p>SN 码（产品序列号）是每台设备的唯一身份标识，相当于设备的身份证号码，也称为机器码、认证码、或注册申请码等。imKey 设备的 SN 码由16位数字和字母按特定规则随机生成，用于验证设备的合法性并保障用户的正版权益。</p>
+                <h3>如何查看 SN 码？</h3>
+                <p>SN 码位于 imKey Pro 硬件钱包的背面。</p>
+                <p>最下方 “SN：” 后面几位大写字母与数字组合字串即为 imKey Pro SN 码。</p>
+                <img src="${S}" alt="page2_12_1">
+                `},{id:"file2_13",title:"imKey Pro 支持哪些币种?",content:`
+                <p>imKey 支持 Ethereum、Bitcoin、Cosmos、Vaulta、TRON、Nervos、Bitcoin Cash、Litecoin、Kusama、Polkadot、Filecoin 、Dogecoin 等12 条主流
+                <a href="https://support.token.im/hc/zh-cn/articles/4414720877209-%E4%BB%80%E4%B9%88%E6%98%AF%E5%85%AC%E6%9C%89%E9%93%BE" target="_blank">公链</a>，以及 Arbitrum、Optimism、zkSync Era 等
+                <a href="https://support.token.im/hc/zh-cn/articles/4414704940569-%E4%BB%80%E4%B9%88%E6%98%AF-Layer2" target="_blank"> Layer2 网络</a>，还有 BSC、Avalanche、Polygon 等
+                <a href="https://support.token.im/hc/zh-cn/articles/4414713036313-%E4%BB%80%E4%B9%88%E6%98%AF-EVM-%E5%85%BC%E5%AE%B9%E9%93%BE" target="_blank"> EVM 兼容网络</a>。</p>
+                <p>imKey 内每条公链对应支持的代币可查看下表。</p>
+                <table style="border-collapse: collapse; width: 100%;">
+                <tr>
+                <th style="border: 1px solid #ddd; padding: 8px; background-color: #f2f2f2;">公链</th>
+                <th style="border: 1px solid #ddd; padding: 8px; background-color: #f2f2f2;">支持代币</th>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">Ethereum</td>
+<td style="border: 1px solid #ddd; padding: 8px;">ETH、ERC20 标准代币和 ERC721、ERC1155 标准代币</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">Bitcoin</td>
+<td style="border: 1px solid #ddd; padding: 8px;">BTC</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">Cosmos</td>
+<td style="border: 1px solid #ddd; padding: 8px;">ATOM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">TRON</td>
+<td style="border: 1px solid #ddd; padding: 8px;">TRX、TRC10 标准代币和 TRC20 标准代币</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">Nervos</td>
+<td style="border: 1px solid #ddd; padding: 8px;">CKB</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">Bitcoin Cash</td>
+<td style="border: 1px solid #ddd; padding: 8px;">BCH</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">Litecoin</td>
+<td style="border: 1px solid #ddd; padding: 8px;">LTC</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">Kusama</td>
+<td style="border: 1px solid #ddd; padding: 8px;">KSM</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">Polkadot</td>
+<td style="border: 1px solid #ddd; padding: 8px;">DOT</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">Filecoin</td>
+<td style="border: 1px solid #ddd; padding: 8px;">FIL</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">Vaulta</td>
+<td style="border: 1px solid #ddd; padding: 8px;">A 和 Vaulta 链上代币</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">Dogecoin</td>
+<td style="border: 1px solid #ddd; padding: 8px;">DOGE</td>
+</tr>
+</table>
+
+<p>imKey 内 Layer2 网络对应支持的代币可查看下表。</p>
+<table style="border-collapse: collapse; width: 100%;">
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">Arbitrum</td>
+<td style="border: 1px solid #ddd; padding: 8px;">ETH、ERC20 标准代币，详细代币列表点击 <a href="https://tokenlists.org/token-list?url=https://bridge.arbitrum.io/token-list-42161.json" target="_blank">这里</a>查看 <br>ERC721、ERC1155 标准 NFT</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">Optimism</td>
+<td style="border: 1px solid #ddd; padding: 8px;">ETH、ERC20 标准代币，详细代币列表点击 <a href="https://tokenlists.org/token-list?url=https://static.optimism.io/optimism.tokenlist.json" target="_blank">这里</a>查看</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">zkSync Era</td>
+<td style="border: 1px solid #ddd; padding: 8px;">ETH、ERC20 标准代币，详细代币列表点击 <a href="https://explorer.zksync.io/tokens" target="_blank">这里</a>查看 <br>ERC721、ERC1155 标准 NFT</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">Base</td>
+<td style="border: 1px solid #ddd; padding: 8px;">与 Optimism 钱包一致， <a href="https://docs.base.org/get-started/base" target="_blank">详见此链接</a><br>ERC721、ERC1155 标准 NFT</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">Scroll</td>
+<td style="border: 1px solid #ddd; padding: 8px;">ETH、ERC20 标准代币，详细代币列表点击 <a href="https://scrollscan.com/tokens" target="_blank">这里</a>查看 <br>ERC721、ERC1155 标准 NFT</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">Linea</td>
+<td style="border: 1px solid #ddd; padding: 8px;">ETH、ERC20 标准代币，详细代币列表点击 <a href="https://lineascan.build/tokens" target="_blank">这里</a>查看</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">Arbitrum Nova</td>
+<td style="border: 1px solid #ddd; padding: 8px;">ETH、ERC20 标准代币，详细代币列表点击 <a href="https://nova.arbiscan.io/tokens" target="_blank">这里</a>查看</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">Polygon zkEVM</td>
+<td style="border: 1px solid #ddd; padding: 8px;">ETH、ERC20 标准代币，详细代币列表点击 <a href="https://zkevm.polygonscan.com/tokens" target="_blank">这里</a>查看</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">Blast</td>
+<td style="border: 1px solid #ddd; padding: 8px;">ETH、ERC20 标准代币，详细代币列表点击 <a href="https://blastscan.io/tokens" target="_blank">这里</a>查看</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">Taiko</td>
+<td style="border: 1px solid #ddd; padding: 8px;">ETH、ERC20 标准代币，详细代币列表点击 <a href="https://taikoscan.io/tokens" target="_blank">这里</a>查看</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">zkLink Nova</td>
+<td style="border: 1px solid #ddd; padding: 8px;">ETH、ERC20 标准代币，详细代币列表点击 <a href="https://explorer.zklink.io/tokens" target="_blank">这里</a>查看</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">Manta Pacific</td>
+<td style="border: 1px solid #ddd; padding: 8px;">ETH、ERC20 标准代币，详细代币列表点击 <a href="https://manta.socialscan.io/tokens" target="_blank">这里</a>查看</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">Mint</td>
+<td style="border: 1px solid #ddd; padding: 8px;">ETH、ERC20 标准代币，详细代币列表点击 <a href="https://explorer.mintchain.io/tokens" target="_blank">这里</a>查看</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">Vizing</td>
+<td style="border: 1px solid #ddd; padding: 8px;">ETH、ERC20 标准代币，详细代币列表点击 <a href="https://explorer.vizing.com/tokens" target="_blank">这里</a>查看</td>
+</tr>
+</table>
+
+<p>imKey  内 EVM 兼容链支持的代币可查看下表。</p>
+<table style="border-collapse: collapse; width: 100%;">
+                <tr>
+                <th style="border: 1px solid #ddd; padding: 8px; background-color: #f2f2f2;">EVM 兼容链名称</th>
+                <th style="border: 1px solid #ddd; padding: 8px; background-color: #f2f2f2;">支持代币</th>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">BNB Smart Chain</td>
+<td style="border: 1px solid #ddd; padding: 8px;">BNB、BEP20 标准代币</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">Polygon</td>
+<td style="border: 1px solid #ddd; padding: 8px;">POL 和 Polygon 链上的代币</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">OKX Chain</td>
+<td style="border: 1px solid #ddd; padding: 8px;">OKX Chain	OKT、KIP20 标准代币</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">Avalanche</td>
+<td style="border: 1px solid #ddd; padding: 8px;">AVAX 和 Avalanche 链上的代币</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">Mantle</td>
+<td style="border: 1px solid #ddd; padding: 8px;">MNT 和 Mantle 链上的代币</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">Bitlayer</td>
+<td style="border: 1px solid #ddd; padding: 8px;">BTC 和 Bitlayer 链上的代币</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">Conflux eSpace</td>
+<td style="border: 1px solid #ddd; padding: 8px;">CFX 和 Conflux eSpace 链上的代币</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">Merlin </td>
+<td style="border: 1px solid #ddd; padding: 8px;">BTC 和 Merlin 链上的代币</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">X Layer</td>
+<td style="border: 1px solid #ddd; padding: 8px;">OKB 和 X Layer 链上的代币</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">Fantom</td>
+<td style="border: 1px solid #ddd; padding: 8px;">FTM 和 Fantom 链上的代币</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">Metis Andromeda</td>
+<td style="border: 1px solid #ddd; padding: 8px;">METIS 和 Metis 链上的代币</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">PlatON </td>
+<td style="border: 1px solid #ddd; padding: 8px;">LAT 和 PlatON 链上的代币 <br>ERC721、ERC1155 标准 NFT</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">opBNB</td>
+<td style="border: 1px solid #ddd; padding: 8px;">BNB 和 opBNB 链上的代币</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">Gnosis Chain</td>
+<td style="border: 1px solid #ddd; padding: 8px;">xDAI 和 Gnosis Chain 链上的代币</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">Kaia</td>
+<td style="border: 1px solid #ddd; padding: 8px;">KAIA(KLAY) 和 Kaia 链上的代币</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">Celo</td>
+<td style="border: 1px solid #ddd; padding: 8px;">CELO 和 Celo 链上的代币</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">Cronos</td>
+<td style="border: 1px solid #ddd; padding: 8px;">CRO 和 Cronos 链上的代币</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">Aurora</td>
+<td style="border: 1px solid #ddd; padding: 8px;">aETH 和 Aurora 链上的代币 <br>详细代币列表点击 <a href="https://aurora.dev/tokens">这里</a>查看</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">Harmony</td>
+<td style="border: 1px solid #ddd; padding: 8px;">ONE 和 Harmony 链上的代币</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ddd; padding: 8px;">SmartBCH</td>
+<td style="border: 1px solid #ddd; padding: 8px;">BCH 和 SmartBCH 链上的代币</td>
+</tr>
+</table>
+
+                `}]},{id:"section3",title:"安全提醒",content:"",children:[{id:"file3_1",title:"安全提醒：警惕社会工程攻击骗局",content:`
+               <p>「小额资产用热钱包，大额资产用冷钱包」是数字资产管理的最佳实践。使用硬件钱包（一般为冷钱包）可以使私钥等重要信息始终不联网，从而显著提高资产安全性。因此购买硬件钱包管理数字资产成为对安全有较高需求用户的首选。但在实际购买和使用硬件钱包的过程中，仍有一些需要注意的事项，避免安全防护功亏一篑。</p>
+               <p>imKey 发现存在非官方授权店铺在京东、拼多多等线上商城出售「已激活」的 imKey 硬件钱包的现象，此情况存在被社会工程攻击的可能，有较大欺诈风险。<strong>正常情况下，硬件钱包设备应为未激活状态，即首次使用 imKey 时，激活设备、创建钱包、备份助记词和设置 PIN 码均应由用户自行完成。</strong></p>
+               
+               <h2>什么是社会工程攻击？</h2>
+               <p>社会工程攻击是指攻击者利用人类的社会工程学原理，通过欺骗、伪装、诱骗等手段，让受害者主动或被动地泄露机密信息或进行某些操作，从而达到攻击目的的一种攻击方式。</p>
+               <p>通过进一步了解和调查，imKey 发现部分非官方授权店铺在售卖「已激活」硬件钱包的同时，篡改使用说明书，诱骗用户将资金存入被作恶商家提前创建的钱包地址中。</p>
+               <p>imKey 已联系各平台官方客服反馈此情况，并积极协助警方调查此类事件。同时，请通过非官方店铺购买 imKey 硬件钱包的用户注意：</p>
+               
+               <h3>如何自查</h3>
+               <p>首次使用 imKey 时，务必确认自己操作以下关键步骤：</p>
+               <ul>
+               <li>激活设备（激活不可逆，每台设备只激活一次）</li>
+               <li>设置并备份 PIN 码和绑定码</li>
+               <li>创建并备份助记
+               <img src="${O}" alt="page3_1_1">
+               <p>如果以上步骤并非你自己操作，则存在较大的受欺诈风险，请务必警惕：</p>
+<p>首次使用 imKey 的具体教程可查看 imKey 官网（<a href="https://imkey.im/zh-hans" target="_blank"> https://imkey.im </a>) 帮助中心的操作教程《<a href="https://support.imkey.im/hc/zh-cn/articles/35731560748953-imKey-%E4%B8%8E-imToken-%E9%A6%96%E6%AC%A1%E9%85%8D%E5%AF%B9%E7%BB%91%E5%AE%9A%E6%95%99%E7%A8%8B" target="_blank">imKey 与 imToken 首次配对绑定教程</a>》</p>
+<p>同时，也可以通过官方设备验证渠道（<a href="https://imkey.im/zh-hans/pages/verify" target="_blank"></a>https://imkey.im/zh-hans/pages/imkey-verification ）对产品进行全方位验证。包括</p>
+               </li>
+               <li>外观检查：重点是检查说明书，凡提前创建 PIN 码的，均存在风险
+               <img src="${$}" alt="page3_1_2">
+</li>
+<li>设备激活状态检查：输入 SN 码可查看设备的激活时间，新设备应提示「设备尚未激活」
+<img src="${D}" alt="page3_1_3">
+</li>     
+</ul>
+<p><strong>如何处理</strong></p>
+<ol>
+<li>将可能存在风险的钱包地址中的资产转移至其他安全地址</li>
+<li>如有任何疑问，请通过官方邮箱 support@imkey.im 与我们联系</li>
+</ol>
+
+<h2>如何安全购买 imKey 硬件钱包</h2>
+<p>为确保产品品质以及售后服务质量，请通过官方渠道购买。目前，imKey 官方提供三种购买途径：</p>
+<ul>
+<li><strong>有赞商城：</strong>如果收件地址在国内，可以通过官方有赞商城购买，产品会通过顺丰快递在国内配送，配送速度快且安全可靠。<a href="https://shop42404838.m.youzan.com/v2/feature/d5bMdxB3Ab?dc_ps=3157273918595792902.200001" target="_blank"> https://j.youzan.com/S0w1J1</a></li>
+<li><strong>亚马逊店铺：</strong>如果收件地址在海外，可以到亚马逊 imKey 官方店铺购买。亚马逊是全球知名的电商平台，购买和配送都非常方便。（认准 Seller: IMKEY CO.,LTD.)</li>
+<li><a href="https://www.amazon.com/stores/imKey/page/BB5DB6D0-71A4-49BB-ADF0-C8F2FE0B6BF0?maas=maas_adg_12C4ABD0A5A5DCE609F181E0424A8307_afap_abs&ref_=aa_maas&tag=maas" target="_blank">Amazon US</a></li>
+<li><a href="https://www.amazon.co.jp/stores/imKey/page/F686FE53-D163-4D27-AE60-D085735F898F" target="_blank">Amazon JP:</a></li>
+<li>
+<p><strong>官方网站：</strong>如果收件地址在海外，也可以通过 imKey 官方网站购买。</p>
+<p><a href="https://imkey.im/zh-hans"></a>https://store.imkey.im/</p>
+</li>
+</ul>
+<p>请注意，只有通过官方渠道购买的 imKey 产品才能保证你的资产安全，同时还能享受官方售后服务。如果从其他渠道购买，我们无法保证产品质量和售后服务。</p>
+
+<h2>关于 imKey</h2>
+<p>imKey Pro 硬件钱包在行业内首先采用 CC EAL6+ 安全芯片，提供用户最高级别的安全保障，同时也是行业内率先采用蓝牙方式连接的硬件钱包，操作便捷，简单易用，在应用端，深度集成 imToken，可无门槛的体验 imToken 支持的各种应用，历经多年的市场验证，imKey Pro 已获得了用户和行业的广泛认可。</p>
+<p>我们深知，用户的积极反馈是打击非授权店铺欺诈行为的关键。因此，我们诚挚邀请广大用户积极参与，如发现非授权店铺或疑似欺诈行为，请通过以下方式举报：</p>
+<ul>
+<li>举报邮箱：support@imkey.im</li>
+<li>举报内容：请提供非授权店铺的名称、网址，以便我们迅速核实并采取行动。</li>
+</ul>
+                `},{id:"file3_2",title:"相同尾号地址骗局",content:`
+                <p>骗子利用用户转账时复制交易记录中地址的习惯，生成相同尾号的地址作为伪装地址，并利用伪装地址向用户小额转账，使得骗子的地址出现在用户的交易记录中。</p>
+                <p>例如下图：用户经常转账的地址为「TUahsb…JjXyp3」，伪装地址为「TSeqQh…sjXyp3」，它们有相同的尾号「jXyp3」。</p>
+                <img src="${v}" alt="page3_2_1">
+                <p>若用户从交易记录中复制地址进行转账时，只核对了尾号，则很容易错误复制成骗子的伪装地址，不小心转账后就会造成代币损失。</p>
+                <p>imToken 团队在此提醒大家：由于区块链技术不可篡改的特性，链上转账一旦成功，则无法进行取消、撤回等操作，所以转账前请务必仔细核对地址！</p>
+                <p>另外 imToken 推荐你使用地址本功能，将一些常用的地址进行保存，防止转账时转错地址。</p>
+                
+                <h3>如何使用地址本转账</h3>
+                <h4>设置地址本</h4>
+                <p>打开 imToken 钱包，并依次点击「我」-「地址本」找到地址本功能，点击右上角「+」即可添加 12 条公链的地址。</p>
+                <img src="${z}" alt="page3_2_2">
+                <p><span style="color: #999">注：设置后，请检查地址准备无误后再使用。</span></p>
+                
+                <h4>使用地址本转账</h4>
+                <p>这里以在 TRX 钱包转账 USDT 为例。选择 USDT 代币并点击「转账」进入转账页面，点击右侧的图标进入地址本选择地址，输入转账金额并确认转账信息后，点击「下一步」输入密码即可转账。</p>
+                <img src="${X}" alt="page3_2_3">
+                `},{id:"file3_3",title:"安全警示｜TRX 多重签名骗局",content:`
+                <p>近期，TRX 多重签名骗局异常猖獗，骗子通过诱导用户下载 <a href="https://support.token.im/hc/zh-cn/articles/900007679523-%E5%AE%89%E5%85%A8%E6%8F%90%E9%86%92-%E8%AD%A6%E6%83%95%E5%81%87%E5%AE%98%E7%BD%91%E9%AA%97%E5%B1%80-%E8%AF%B7%E8%AE%A4%E5%87%86-imToken-%E5%AE%98%E7%BD%91-token-im" target="_blank">假 imToken </a>等方式获取用户的助记词，但是却不直接将用户的资产盗走，而是通过修改用户的 TRX 钱包账户权限，导致用户失去对账户内资产的控制权，只能将代币转入钱包，却无法转出。</p>
+                <p>本文将揭秘 TRX 多重签名骗局具体是如何实施的，以及我们该如何防范这类骗局。</p>
+                
+                <h2>什么是 TRX 多重签名骗局</h2>
+                <p>当我们创建了一个 TRX 钱包后，这个钱包账户默认的拥有者权限为账户本人，阈值为 1，即钱包转账需持有一个拥有者权限的地址进行签名授权才能发起。</p>
+                <img src="${H}" alt="page3_3_1">
+                <p>注：拥有者权限是指一个 TRX 账户的最高权限，具有该权限的地址可进行该账户内的所有操作。</p>
+                <p>而当骗子获取了用户助记词，对其 TRX 账户权限进行修改后，用户地址的拥有者权限变为用户本人和骗子共同持有，阈值为 2，即钱包转账需要两个拥有者权限的地址——用户的地址和骗子的地址，共同签名授权才能发起。</p>
+                <img src="${M}" alt="page3_3_2">
+                <p>由于此时 TRX 钱包的转账需要多重签名（用户地址的签名和骗子地址的签名）才能完成，所以这类骗局被称为 TRX 多重签名骗局。</p>
+                <p>这就意味着，当用户的 TRX 账户被骗子更改为需多重签名的地址后，用户发起的任何交易，都需要骗子的签名授权才能完成，如果只是用户单方面发起交易，就会遇到类似「server：SIGERROR」的报错。</p>
+                <p>你可能会疑惑，为什么用户拥有自己账户的助记词 / 私钥，也无法「独立完成」资产的转出操作。</p>
+                <p>以合伙开公司的例子解释一下，你就明白了。假设有一家公司有两个合伙人，他们在这家公司成立之初规定：所有的重大决策要两个合作人都同意进行签名授权，即多重签名，才可以执行。若有一方不同意，决策则不通过。</p>
+                <p>被骗子修改为多重签名的 TRX 账户就像是这样一家公司，即便用户持有钱包助记词，但也已经无法「独立完成」对这个钱包的转账等重大操作。</p>
+                <p>用户只能将资产转入这个账户，却无法转出，骗子就是利用这一点从而「放长线钓大鱼」，等到用户在账户中积累了足够的资产后再一次性盗走。如果一个用户从来都是只收款不转账，且不去链上查看自己的账户权限，那他可能会一直蒙在鼓里并持续地向这个账户转钱。</p>
+                <p>另外，骗子除了通过诱导用户下载假 imToken 方式外，还会通过以下两类方式利用多重签名诈骗：</p>
+                <ul>
+                <li>在 Telegram 等社交平台推广充值网站，诱导用户使用数字资产进行充值，实际上是趁用户充值时获取账户的拥有者权限，导致用户失去对账户的控制权；</li>
+                <li>在 Telegram、微信等社交平台公开自己的助记词 / 私钥，诱导用户转入 TRX 作为手续费以转走钱包内的资产，但实际骗子早已将拥有者权限转移，最终导致用户损失 TRX。</li>
+</ul>
+
+<h2>安全提醒</h2>
+<p>imToken 安全团队在此提醒大家</p>
+<ul>
+<li>下载 imToken 请认准官网 ：<a href="https://token.im/" target="_blank">https://token.im/</a></li>
+<li>天下不会有免费的午餐，切莫贪小便宜</li>
+<li>定期检查 TRX 钱包账户权限（👇 附有教程）</li>
+</ul>
+
+<h3>如何查询账户权限</h3>
+<ol>
+<li>打开 TRX 钱包，切换至「浏览」页面输入 TRONSCAN 并打开。
+<img src="${V}" alt="page3_3_3">
+</li>
+<li>在输入框输入钱包地址并搜索，跳至账户信息页面并下滑至「账户权限」板块。
+<img src="${j}" alt="page3_3_4">
+</li>
+<li>如图所示，如果有且只有你的地址持有拥有者权限，说明你的账户权限是安全的。
+<img src="${G}" alt="page3_3_5">
+</li>
+</ol>
+`},{id:"file3_4",title:"授权查询和取消",content:`
+                <P>代币授权骗局主要发生在以太坊和波场上，因此本文提供 ETH 和 TRX 两类钱包的授权查询和取消的教程。</P>
+                <h2>TRX 钱包</h2>
+                <h3>准备</h3>
+                <p>确保钱包地址中至少有 30 个 TRX。若没有，你可以通过交易所提币至自己的 TRX 钱包地址。</p>
+                <h3>手把手教程</h3>
+                <ol>
+                <li>打开 imToken 内的 TRX 钱包，将首页的功能栏向左滑动，点击「授权管理」按钮，进入「TRONSCAN」页面自动连接钱包，查询授权。</li>
+                <p>TRONSACN：可查询和处理 TRX 钱包授权的工具。如果你无法打开此页面，请切换手机网络后再尝试打开。</p>
+                <img src="${Z}" alt="page3_4_1">
+                <li>进入 TRONSCAN 后如果页面是英文，可点击右上角菜单栏，再点击最下方「Preferences」（ 即偏好设置）-「简体中文」-「Save」（即保存）进行语言切换</li>
+                <img src="${J}" alt="page3_4_2">
+                <li>将页面向下滑动，点击「授权列表」即可查看你授权的地址和数量。如果列表中有不明地址，并且你自身也不了解该地址的控制方，那么这很有可能是骗子地址。请点击授权记录右侧的▼ 展开详情，点击「取消授权」并在弹窗页面中再次确认，发送取消授权交易。</li>
+                <img src="${W}" alt="page3_4_3">
+                <li>取消授权后，请确认授权记录的状态为「已取消」且当前授权数量为「0」。</li>
+                <img src="${Y}" alt="page3_4_4">
+</ol>
+
+<h2>ETH 钱包</h2>
+<p>确保钱包地址中有至少 0.02 个 ETH。若没有，你可以通过交易所提币至自己的以太坊钱包地址。</p>
+<p>注：提币时请选择 ETH（ERC20） 网络通道。</p>
+
+<h3>手把手教程</h3>
+<ol>
+<li>打开 imToken 内的 ETH 钱包，将首页的功能栏向左滑动，点击「授权管理」按钮，进入「Revoke」页面自动连接钱包，查询授权。</li>
+<p>Revoke.cash：授权（Approve）管理 DApp，已支持管理以太坊、Arbitrum、Optimism、BSC、Polygon、Avalanche 等网络中的授权。在该页面点击以太坊图标进行网络切换，即可查看对应网络的授权详情。</p>
+<img src="${Q}" alt="page3_4_5">
+<li>将页面下滑至底部就可以看到该账户授权情况，在授权金额、被授权人（Spender）、上次更新列表中查看你的授权数量、地址以及时间。</li>
+<p>如果想要取消某个授权，在授权记录列表中找到要取消授权的代币或 NFT，然后向左滑动，点击「撤销」并在弹窗页面中再次确认即可发送取消授权交易。</p>
+<img src="${q}" alt="page3_4_6">
+<li>取消授权的交易发出后回到钱包首页，点击「记录」可查看该交易状态。当状态从「等待确认」变为「成功」，说明你已成功取消授权。</li>
+<li>如果想要更改代币授权金额，可以点击金额右侧的「✏️」图标进行修改，填好数值后点击「更新」并在弹窗页面再次确认即可。</li>
+</ol>
+<p>在上图的中间这张截图中，我们可以看到被授权人（Spender）一栏显示有 Uniswap、Aave 等。这是因为当我们在 DEX 中交易时需要先进行代币转账授权，其目的是让 DEX 获得代币的转账权限，方便完成后续的代币兑换。</p>
+<p>但是，如果你发现被授权人（Spender）这一列有不明地址，并且你自身也不了解该地址的控制方，那么这很有可能是骗子地址，请立刻取消授权。</p>
+<p>温馨提示：如有任何问题，请通过 App 内「帮助与反馈」联系我们获取帮助。</p>
+                
+                `},{id:"file3_5",title:"助记词碰撞骗局",content:`
+                <p>助记词是明文私钥的另一种表现形式，最早是由 BIP39 提案提出，其目的是为了帮助用户记忆复杂的私钥。imToken 中创建的钱包助记词由 12 个单词构成，这些单词都取自一个固定词库。已知 BIP39 标准的助记词库一共有 2048 个单词，可以产生 2^128 种的助记词组合类型，助记词由于其庞大的组合数、基于强密码学的设计、有效的校验机制等多个方面，它的安全性是非常高的。</p>
+                <p>但一些用户觉得助记词也就 12 个单词，误以为用一些算力很强的机器应该能碰撞出来的，进而获得钱包代币的控制权。用户对助记词的认知不足让一些不法分子看到了从中牟利的机会，谎称自己开发出了一种能够「碰撞」助记词的工具，并通过各种渠道兜售这种所谓的破解软件。</p>
+                <p>小严是一位加密货币投资者，在推特上看到了一则推文广告，声称有一款新开发的软件可以快速「碰撞」助记词，从而获取破解的钱包地址里面的代币。这款软件价格不菲，但推文中展示的各种「成功案例」让小严感到心动。</p>
+                <img src="${ii}" alt="page3_5_1">
+                <div style="text-align: center">（碰撞助记词的诈骗推文）</div>
+                <p>小严与卖家联系后，卖家向他免费提供了这款「助记词碰撞工具」的试用版，但要完整使用需要支付高额费用。为了获取小严的信任，卖家还提供了一些虚假的视频，演示如何通过该工具成功「破解」某些钱包地址的助记词。小严使用「助记词碰撞工具」的试用版按视频步骤操作果然「破解」了一些钱包地址的助记词，导入后发现里面有少量的代币。卖家解释试用版的算力只能「碰撞」出少量资产的钱包地址助记词，小严随后支付了上千美元购买了这款软件。</p>
+                <p>然而，支付后，小严收到的软件根本无法使用，甚至在安装时触发了他电脑上的病毒防护警报。意识到可能上当受骗的小严再次联系卖家，却发现对方已将他拉黑。他不仅损失了用于购买软件的资金，电脑还被植入了恶意软件，进一步威胁他的数字代币安全。</p>
+                
+                <h2>骗局科普</h2>
+                <p>从数学的角度来讲，助记词被碰撞的概率极低， BIP39 标准的助记词库中的 2048 个单词可以产生 2^128 种的助记词组合类型。NVIDIA RTX 4090 是目前消费级市场上性能最强的显卡，如果用一张 RTX4090 的显卡来遍历完所有的助记词组合需要花费约 1.38×10^24 年，很显然在我们有限的生命里是等不到了。</p>
+                <p>但如果 12 个单词的助记词组中有 8\\9\\10 个单词泄露了，使用显卡的算力花费一定的时间是可以算出剩余的某几个单词的，所以只泄露部分助记词也是存在风险的。</p>
+                <p>此外，助记词或私钥的安全还与<a href="https://support.token.im/hc/zh-cn/articles/11726952073753-imToken-%E9%92%B1%E5%8C%85%E5%AE%89%E5%85%A8%E6%9C%88%E6%8A%A5-7-%E6%9C%9F-%E4%BB%80%E4%B9%88%E4%BC%9A%E5%BD%B1%E5%93%8D%E4%BD%A0%E7%9A%84%E7%A7%81%E9%92%A5%E5%AE%89%E5%85%A8">随机性</a>有关，如果生成助记词或私钥的工具算法随机性不够，也会增加黑客暴力破解的概率，为了确保足够的随机性，imToken 在 Android 和 iOS 系统使用的都是系统提供的随机数生成器。比如 iOS 的熵（可以理解为随机数）来源是一段时间内系统发生的事件统计。由于系统的内核状态是实时不同的，所以私钥的随机性和安全性有充分的保障。</p>
+                <p><strong>imToken 安全团队提醒：</strong></p>
+                <ul>
+                <li>将助记词或私钥保存在离线存储介质，如硬件钱包或纸质备份，降低网络攻击风险。</li>
+                <li>使用正规的钱包和助记词生成工具，避免使用未知来源的应用程序或网站。</li>
+                <li>助记词的生成具有极高的随机性，碰撞成功的概率几乎为零。</li>
+                <h2>最后</h2>
+                <p>诈骗手段层出不穷，对于普通用户来说，确实难以全面预防。imToken 致力于快速发现和找到解决方案，并向社区及时反馈和科普各种新型骗局，以降低用户损失，全面提升用户在加密货币领域的安全性，努力构建一个可信赖的数字代币管理生态系统。</p>
+</ul>
+                `}]}];export{li as default};
