@@ -1,4 +1,4 @@
-const t=""+new URL("imKeyPadding-C7jU6FqV.png",import.meta.url).href,l=""+new URL("imKeyPadding2-TsHydHLX.png",import.meta.url).href,i=""+new URL("imKeyPadding3-OLodW0aR.png",import.meta.url).href,d=[{id:"section1",title:"imKey Pro 开箱与设备检查教程",content:"",children:[{id:"file1_1",title:"imKey Pro 开箱与设备检查教程",content:`
+const t="/get-started/assets/imKeyPadding-C7jU6FqV.png",l="/get-started/assets/imKeyPadding2-TsHydHLX.png",i="/get-started/assets/imKeyPadding3-OLodW0aR.png",d=[{id:"section1",title:"imKey Pro 开箱与设备检查教程",content:"",children:[{id:"file1_1",title:"imKey Pro 开箱与设备检查教程",content:`
           <p>
 imKey Pro 采用 <strong> Infineon 安全芯片（SLE78CLUFX5000PH）</strong>，安全等级达到 <strong> 军工级 CC EAL 6+ 标准</strong>，是业内公认的高安全级别硬件钱包。
 </p>

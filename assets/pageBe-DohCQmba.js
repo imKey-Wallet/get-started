@@ -1,4 +1,4 @@
-const t=""+new URL("bang-DnEC0Ssa.png",import.meta.url).href,l=""+new URL("file1_1_1-DJEPYNqr.png",import.meta.url).href,i=[{id:"section1",title:"准备工作",content:"",children:[{id:"file1_1",title:"准备工作",content:`
+const t="/get-started/assets/bang-DnEC0Ssa.png",l="/get-started/assets/file1_1_1-DJEPYNqr.png",i=[{id:"section1",title:"准备工作",content:"",children:[{id:"file1_1",title:"准备工作",content:`
           <h3>1.准备设备</h3>
           <ul>
           <li><strong>硬件设备：</strong>一台<a href="https://shop42404838.m.youzan.com/wscgoods/detail/2xj05mqphzjou2e?dc_ps=3340492903519792131.200001" target="_blank"> imKey Pro </a>硬件钱包</li>
