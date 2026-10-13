@@ -1,4 +1,4 @@
-const t="/get-started/assets/imKeyPadding-C7jU6FqV.png",l="/get-started/assets/imKeyPadding2-TsHydHLX.png",i="/get-started/assets/imKeyPadding3-OLodW0aR.png",d=[{id:"section1",title:"imKey Pro 开箱与设备检查教程",content:"",children:[{id:"file1_1",title:"imKey Pro 开箱与设备检查教程",content:`
+const t="/get-started/assets/imKeyPadding-C7jU6FqV.png",d="/get-started/assets/imKeyPadding2-TsHydHLX.png",i="/get-started/assets/imKeyPadding3-OLodW0aR.png",l=[{id:"section1",title:"imKey Pro 开箱与设备检查教程",content:"",children:[{id:"file1_1",title:"imKey Pro 开箱与设备检查教程",content:`
           <p>
 imKey Pro 采用 <strong> Infineon 安全芯片（SLE78CLUFX5000PH）</strong>，安全等级达到 <strong> 军工级 CC EAL 6+ 标准</strong>，是业内公认的高安全级别硬件钱包。
 </p>
@@ -16,10 +16,7 @@ imKey Pro 采用 <strong> Infineon 安全芯片（SLE78CLUFX5000PH）</strong>�
 </li>
 <li>
 亚马逊官方店铺（海外用户）：目前已上线
- <a href="https://www.amazon.co.jp/stores/imKey/page/F686FE53-D163-4D27-AE60-D085735F898F" target="_blank"> 日本站</a>、
- <a href="https://www.amazon.com/stores/imKey/page/BB5DB6D0-71A4-49BB-ADF0-C8F2FE0B6BF0?maas=maas_adg_12C4ABD0A5A5DCE609F181E0424A8307_afap_abs&ref_=aa_maas&tag=maas" target="_blank"> 北美站</a>、
- <a href="https://www.amazon.sg/stores/imKey/page/205682E7-2D66-4919-A1D3-3E1D07D026A8?lp_asin=B0BTM24566&ref_=ast_bln%20%20Official%20Store" target="_blank"> 新加坡站</a>
- <a href="https://www.amazon.com.au/dp/B0BTM24566" target="_blank">澳洲站</a>
+ <a href="https://www.amazon.com/stores/imKey/page/BB5DB6D0-71A4-49BB-ADF0-C8F2FE0B6BF0?maas=maas_adg_12C4ABD0A5A5DCE609F181E0424A8307_afap_abs&ref_=aa_maas&tag=maas" target="_blank"> 北美站</a>
  ，购买便捷可靠。
 </li>
 <li>
@@ -41,7 +38,7 @@ imKey Pro 采用 <strong> Infineon 安全芯片（SLE78CLUFX5000PH）</strong>�
 <li>检查产品包装
 <ul> <li>  外层塑封完好。</li>
 <li>  两侧 <strong> 不可逆封条 </strong>完整，若撕开会显示字母。</li></ul>
-<img src="${l}" alt="imKeyPadding2">
+<img src="${d}" alt="imKeyPadding2">
 </li>
 <li>检查开机界面
 <ul> <li> <p>初次启动应依次显示：</p> <p><strong>选择语言 → 显示蓝牙名称。</strong></p></li>
@@ -123,4 +120,4 @@ imKey Pro 采用 <strong> Infineon 安全芯片（SLE78CLUFX5000PH）</strong>�
 <li>自己创建并物理备份助记词</li>
 </ol>
 <p>做到这三点，你就能大幅降低供应链风险，确保使用到的 imKey Pro 是一台真正安全的硬件钱包。</p>
-        `}]}];export{d as default};
+        `}]}];export{l as default};
